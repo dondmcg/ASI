@@ -18,7 +18,7 @@ export default function Home() {
           This page is yet to be designed so stand by to get your socks blown off!!
         </p>
         <Button style={{maxWidth: '240px', maxHeight: '30px', minWidth: '240px', minHeight: '30px'}} variant="contained" onClick={() => {
-          alert('clicked');
+          alert('clicked booyah');
         }}>Add your wallet</Button>
       </main>
       <Footer />
