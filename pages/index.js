@@ -7,12 +7,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>ASI</title>
+        <title>Astrological Search Initiative</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to ASI" />
+        <Header title="Welcome to the Astrological Search Initiative" />
         <hr />
         <p className="description">
           This page is yet to be designed so stand by to get your socks blown off!!
